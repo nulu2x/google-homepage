@@ -1,1 +1,1 @@
-# the_odin_project
+Google Homepage Assignment - theodinproject.com
