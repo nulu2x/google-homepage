@@ -1,1 +1,2 @@
-Google Homepage Assignment - theodinproject.com
+Project: Google Homepage Clone
+Class: theodinproject.com
